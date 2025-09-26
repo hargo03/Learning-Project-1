@@ -1,0 +1,11 @@
+# Requirements for User Info GUI Application
+# 
+# This application uses tkinter, which is typically included with Python installations.
+# If tkinter is not available, install it using your system package manager:
+#
+# Ubuntu/Debian: sudo apt install python3-tk
+# CentOS/RHEL: sudo yum install tkinter (or python3-tkinter)
+# macOS: tkinter is included with Python from python.org
+# Windows: tkinter is included with Python from python.org
+#
+# No additional pip packages required for basic functionality.
